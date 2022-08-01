@@ -1,5 +1,5 @@
 
-Ola, Meu nome é Eduardo sou um progamadar e esse é minha conta github aqui estarei postando meu melhores projetos.
+Ola, Meu nome é Eduardo sou um progamador e essa é minha conta do github aqui estarei postando meus melhores projetos.
 ##
 #Meus estudos 📚
 
