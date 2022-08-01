@@ -5,7 +5,7 @@ Ola, Meu nome é Eduardo sou um progamador e essa é minha conta do github aqui 
 
 ➡️Técnico em Desenvolvimento de Sistemas - Cursando utimo ano </br>
 ➡️Técnico em Eletrônica - Cursando utimo ano </br>
-➡️Graduação Analise e desenvolvimento de Sistemas - início 2023 </br>
+➡️Graduação Analise e Desenvolvimento de Sistemas - início 2023 </br>
 <br>
 
 
@@ -31,7 +31,7 @@ Ola, Meu nome é Eduardo sou um progamador e essa é minha conta do github aqui 
   ➡️ Jogar 🎮: *counter strike global offensive* </br>
   ➡️ Estudar promação 🖥️ </br>
   ➡️ Ler livros 📖</br>
-  ➡️ Passer em lugares com Natureza🌲</br>
+  ➡️ Passear em lugares com Natureza🌲</br>
   ➡️ Animais: Gatos/Dogs 🐈 </br>
   ➡️ Assitir Filmes/Series📽️ </br>
   
