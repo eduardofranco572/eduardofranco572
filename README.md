@@ -1,5 +1,5 @@
 
-Ola, Meu nome é Eduardo e esse foi mais um projeto para meu aprendizado de Font-End.
+Ola, Meu nome é Eduardo e esse é minha conta github aqui estarei postando meu melhores projetos.
 
 <div align="center">
   <a href="https://github.com/EduadoFranco">
