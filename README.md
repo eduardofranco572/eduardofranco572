@@ -56,8 +56,8 @@ Ola, Meu nome é Eduardo sou um progamador e essa é minha conta do github aqui 
   <br>
  <div align="center">
   <a href="https://github.com/eduardofranco572">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduadoFranco&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduadoFranco&layout=compact&langs_count=7&theme=dark"/></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardofranco572&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardofranco572&layout=compact&langs_count=7&theme=dark"/></a>
 </div>
 
 
