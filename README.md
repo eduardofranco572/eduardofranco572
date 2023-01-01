@@ -8,14 +8,11 @@ Ola, Meu nome é Eduardo sou um progamador e essa é minha conta do github aqui 
 ➡️Graduação Analise e Desenvolvimento de Sistemas - início 2023 </br>
 <br>
 ##
-##
+<div align="center">
   <br>
-    <center>
-      💻 Aqui são umas das linguagens de progamação que tenho conhecimento. 💻
-    </center>
+    💻 Aqui são umas das linguagens de progamação que tenho conhecimento.💻 
   <br>
-##
-
+</div>
 <div align="center" style="display: inline_block"><br> 
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -27,6 +24,8 @@ Ola, Meu nome é Eduardo sou um progamador e essa é minha conta do github aqui 
   <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  
+
   
   
             
