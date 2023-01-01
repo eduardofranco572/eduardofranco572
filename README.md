@@ -11,7 +11,9 @@ Ola, Meu nome é Eduardo sou um progamador e essa é minha conta do github aqui 
 
 ##
 <br>
-  💻 Aqui são umas das linguagens de progamação que tenho conhecimento. e que utilizo para criar meus sites 💻
+  <center>
+    💻 Aqui são umas das linguagens de progamação que tenho conhecimento. 💻
+  </center>
 <br>
 <div align="center" style="display: inline_block"><br> 
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
