@@ -7,14 +7,15 @@ Ola, Meu nome é Eduardo sou um progamador e essa é minha conta do github aqui 
 ➡️Técnico em Eletrônica - Cursando utimo ano </br>
 ➡️Graduação Analise e Desenvolvimento de Sistemas - início 2023 </br>
 <br>
-
-
 ##
-<br>
-  <center>
-    💻 Aqui são umas das linguagens de progamação que tenho conhecimento. 💻
-  </center>
-<br>
+##
+  <br>
+    <center>
+      💻 Aqui são umas das linguagens de progamação que tenho conhecimento. 💻
+    </center>
+  <br>
+##
+
 <div align="center" style="display: inline_block"><br> 
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
