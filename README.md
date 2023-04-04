@@ -3,9 +3,9 @@ Ola, Meu nome é Eduardo sou um progamador e essa é minha conta do github aqui 
 ##
 #Meus estudos 📚
 
-➡️Técnico em Desenvolvimento de Sistemas - Cursando utimo ano </br>
-➡️Técnico em Eletrônica - Cursando utimo ano </br>
-➡️Graduação Analise e Desenvolvimento de Sistemas - início 2023 </br>
+➡️Técnico em Desenvolvimento de Sistemas </br>
+➡️Técnico em Eletrônica </br>
+➡️Graduação ---- início em 2023 || 2024 </br>
 <br>
 ##
 <div align="center">
