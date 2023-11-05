@@ -32,7 +32,7 @@ Ola, Meu nome é Eduardo sou um progamador e essa é minha conta do github aqui 
   
   🕹️ Hobbies
   
-  ➡️ Jogar 🎮: *counter strike global offensive* </br>
+  ➡️ Jogar 🎮 </br>
   ➡️ Estudar promação 🖥️ </br>
   ➡️ Ler livros 📖</br>
   ➡️ Passear em lugares com Natureza🌲</br>
