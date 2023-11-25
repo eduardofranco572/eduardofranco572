@@ -1,12 +1,14 @@
 
 Ola, Meu nome é Eduardo sou um progamador e essa é minha conta do github aqui estarei postando meus melhores projetos.
 ##
-#Meus estudos 📚
-
-➡️Técnico em Desenvolvimento de Sistemas </br>
-➡️Técnico em Eletrônica </br>
-➡️Cursando Graduação em análise e desenvolvimento de sistemas  </br>
-<br>
+<div align="center">
+  #Meus estudos 📚
+  
+  ➡️Técnico em Desenvolvimento de Sistemas </br>
+  ➡️Técnico em Eletrônica </br>
+  ➡️Cursando Graduação em análise e desenvolvimento de sistemas  </br>
+  <br>
+</div>
 ##
 <div align="center">
   <br>
