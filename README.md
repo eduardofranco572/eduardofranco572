@@ -23,23 +23,7 @@ Ola, Meu nome é Eduardo sou um progamador e essa é minha conta do github aqui 
   <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  
-
-  
-  
-            
-  ##
-  
-  🕹️ Hobbies
-  
-  ➡️ Jogar 🎮 </br>
-  ➡️ Estudar promação 🖥️ </br>
-  ➡️ Ler livros 📖</br>
-  ➡️ Passear em lugares com Natureza🌲</br>
-  ➡️ Animais: Gatos/Dogs 🐈 </br>
-  ➡️ Assitir Filmes/Series📽️ </br>
-  
-  ##
+    
  
 <br>
   💬 links das minhas redes sociais 💬
