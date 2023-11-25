@@ -26,6 +26,8 @@ Ola, Meu nome é Eduardo sou um progamador e essa é minha conta do github aqui 
     
  
 <br>
+<br>
+<br>
   💬 links das minhas redes sociais 💬
 <br>
 <br>
