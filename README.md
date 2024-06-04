@@ -42,7 +42,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardofranco572&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardofranco572&layout=compact&langs_count=7&theme=dark"/></a>
 </div>
-
+<br>
+<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardofranco572/eduardofranco572/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardofranco572/eduardofranco572/output/github-contribution-grid-snake.svg">
