@@ -1,7 +1,7 @@
 <div align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?  font=Fira+Code&pause=100&color=43C052&center=true&random=false&width=350&lines=Eduardo+Franco+Seco+;Desenvolvedor+Full+Stack+Web" alt="Typing SVG" /></a>
 
-  <p>Olá, meu nome é Eduardo sou um desenvolvedor Full Stack Web, 💻 iniciei no mundo da programação em 2021 ao qual neste período de tempo desenvolvi um grande conhecimento na área e estou sempre procurando melhorar e sempre explorando novas tecnologias. 🎓 Atualmente cursando análise e desenvolvimentos de sistemas na instituição Fatec Arthur de Azevedo e com dois certificados técnicos sendo eles na área de eletrônica e desenvolvimento de sistemas.</p>
+  <p>Olá, meu nome é Eduardo sou um desenvolvedor Full Stack, 💻 iniciei no mundo da programação em 2021 ao qual neste período de tempo desenvolvi um grande conhecimento na área e estou sempre procurando melhorar e sempre explorando novas tecnologias. 🎓 Atualmente cursando análise e desenvolvimentos de sistemas na instituição Fatec Arthur de Azevedo e com dois certificados técnicos sendo eles na área de eletrônica e desenvolvimento de sistemas.</p>
 </div>
 
  <hr> </hr>
