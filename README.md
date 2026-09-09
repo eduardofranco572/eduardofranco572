@@ -2,9 +2,15 @@
  <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E7B11&center=true&width=435&lines=Desenvolvedor+Full+Stack" alt="Typing SVG" />
  </a>
- 
- <p>Olá, meu nome é Eduardo Franco Seco, sou um desenvolvedor Full Stack. 💻 Iniciei no mundo da programação em 2021 e, desde então, desenvolvi uma base técnica sólida, sempre explorando inovações e novas tecnologias. 🎓 Sou graduado em Análise e Desenvolvimento de Sistemas além de possuir dois certificados técnicos nas áreas de Eletrônica e Desenvolvimento de Sistemas.</p>
 </div>
+<p>
+Olá, meu nome é Eduardo Franco, sou Desenvolvedor Full Stack com experiência no desenvolvimento de aplicações web, APIs e sistemas completos. Atuo na área desde 2021, com foco em Node.js, React, TypeScript e tecnologias do ecossistema JavaScript, além de experiência com PHP, Laravel, Angular e outras tecnologias.
+</p>
+
+<p>
+Tenho interesse em arquitetura de software, APIs, bancos de dados, aplicações em tempo real, mensageria, performance e boas práticas de desenvolvimento.
+</p>
+
 
  <hr> </hr>
 <div align="center">
@@ -52,7 +58,7 @@
   <a href="https://www.facebook.com/profile.php?id=100021540135507" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href = "mailto:eduardo.f.seco@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eduardo-franco572/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://portfolioeduardofranco.netlify.app/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
+  <a href="https://portfolio-jade-kappa-xz3bgb7vm6.vercel.app/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
  </div>
   <br>
   <hr> </hr>
